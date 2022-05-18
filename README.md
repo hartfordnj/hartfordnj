@@ -5,6 +5,7 @@
 
 <!-- Quote -->
 <p align="center">Seattle, WA
+  <br>
   
   <!-- Social Network -->
 
