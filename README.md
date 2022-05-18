@@ -33,7 +33,7 @@
  <img align="center" 
        alt="banner" 
        width="108px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
+       src="https://github.com/hartfordnj/hartfordnj/blob/11ae93accc7e5448085f9c948ac8c0e02d2c6e3e/panoramic-3120304_1920.jpg" />
   </a>
 
 
