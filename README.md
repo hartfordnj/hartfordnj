@@ -41,26 +41,34 @@
 &nbsp;
 
 <!-- Certifications -->
-<p><H3 align="center"><strong> Certifications: 💻 </strong></p>
-  <div title="Certified Professional Technical Communicator (CPTC)"/div>
-  <a href="https://www.credly.com/earner/earned/badge/c830c752-57f4-458e-b03e-a2e73876c62d">
-  <code><img height="60" src="https://github.com/hartfordnj/hartfordnj/blob/b891e3f4a4c483c855407516fdb0dd4be5ef0e0e/CPTC_logo_Foundation_small-e1586048171674.jpg"></code>
- 
-  </p>
+<p>
+  <H3 align="center"><strong> Certifications: 💻 </strong></p>
   
+  
+<code>
+  <a href="https://www.credly.com/earner/earned/badge/c830c752-57f4-458e-b03e-a2e73876c62d"></a>
+<img 
+     height="60" 
+     src="https://github.com/hartfordnj/hartfordnj/blob/b891e3f4a4c483c855407516fdb0dd4be5ef0e0e/CPTC_logo_Foundation_small-e1586048171674.jpg"
+     title="Certified Professional Technical Communicator (CPTC)">
+</code> 
+<code>
+  <a href="https://www.credly.com/earner/earned/badge/c8026504-65b2-4086-8b2f-1a0610d51b88"></a>
+<img 
+     height="60" 
+     src="https://github.com/hartfordnj/hartfordnj/blob/479a4d06b2473c3bb5b13e4f86111367d836409a/Program_Badge_Technical_Writing.png"
+     title="Technical Writing Issued by Tombolo Institute at Bellevue College">
+</code>
+  </p>
+    
 &nbsp;  
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
+           
+           
+
+         
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
+
 &nbsp;
 
 <!-- GitHub Stats -->
