@@ -42,7 +42,7 @@
 
 <!-- Certifications -->
 <p><H3 align="center"><strong> Certifications: 💻 </strong></p>
-  
+  <div title="Certified Professional Technical Communicator (CPTC)"/div>
   <a href="https://www.credly.com/earner/earned/badge/c830c752-57f4-458e-b03e-a2e73876c62d">
   <code><img height="60" src="https://github.com/hartfordnj/hartfordnj/blob/b891e3f4a4c483c855407516fdb0dd4be5ef0e0e/CPTC_logo_Foundation_small-e1586048171674.jpg"></code>
  
